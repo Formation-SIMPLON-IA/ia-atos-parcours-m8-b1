@@ -68,3 +68,13 @@ CapGroup trie 80 tickets/jour à la main. Nous proposons un classifieur de texte
 - [ ] Lisible par le persona client (pas de jargon non défini).
 - [ ] Sobriété argumentée (LLM retenu/refusé : 3 lignes).
 - [ ] KPI chiffrés + questions ouvertes.
+
+> 💡 **Récap — Document de cadrage** : 5 pages, 5 sections, **synthèse exécutive en tête** ; lisible par le persona (pas de jargon non défini) ; KPI chiffrés ; sobriété argumentée (LLM retenu/refusé en 3 lignes) ; finir par les questions ouvertes. C'est le livrable client qui se valide.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.

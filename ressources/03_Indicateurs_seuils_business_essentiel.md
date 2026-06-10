@@ -70,3 +70,13 @@ Pour ton cas :
 - [ ] Distinction KPI business / métrique modèle.
 - [ ] Au moins un seuil justifié par le coût de l'erreur.
 - [ ] Lisible par le décideur métier.
+
+> 💡 **Récap — Indicateurs business** : chiffrer le KPI **business** (60→10 min), pas juste la métrique modèle ; un seuil d'acceptabilité par KPI, justifié par le **coût de l'erreur** (récupérable vs critique). « Précision > 95 % » sorti du chapeau ne vaut rien.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.

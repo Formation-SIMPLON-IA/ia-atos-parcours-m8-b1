@@ -76,3 +76,5 @@ Pour ton cas tiré, avant l'entretien :
 - [ ] J'ai reformulé le besoin (pas recopié la demande).
 - [ ] J'ai couvert données + contraintes + indicateurs.
 - [ ] J'ai tenu les 45 min (gestion du temps).
+
+> 💡 **Récap — Conduite d'entretien** : demande ≠ besoin ; questions par catégorie (besoin/données/contraintes/KPI/volumétrie/succès) ; noter dit vs interprété ; relancer quand c'est vague. En 45 min, la préparation fait tout — c'est le geste CT3 le plus exigeant du parcours.

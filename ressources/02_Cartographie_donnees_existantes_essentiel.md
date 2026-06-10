@@ -69,3 +69,13 @@ Pour ton cas :
 - [ ] Présence (ou non) de **labels** identifiée.
 - [ ] Contraintes d'accès notées.
 - [ ] Points à clarifier listés (pas supposés).
+
+> 💡 **Récap — Cartographie données** : séparer **existantes** (POC immédiat) et **à acquérir** (délai/budget caché) ; estimer la qualité à l'œil ; repérer les **labels** (rendent le supervisé possible) ; noter les contraintes d'accès. Un projet IA vit ou meurt sur ses données.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.

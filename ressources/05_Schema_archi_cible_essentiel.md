@@ -72,3 +72,13 @@ Pour ton cas :
 - [ ] Nœud de décision / fallback visible.
 - [ ] Cohérent avec mes risques et mes KPI.
 - [ ] Je liste ce que je n'ai **pas** mis (sobriété).
+
+> 💡 **Récap — Schéma archi cible** : niveau **composants** (4-6), pas code ; familles (« base relationnelle »), pas stack ; un nœud de décision (seuil → revue humaine) ; cohérent avec risques et KPI ; **dire ce qu'on n'a pas mis** (sobriété). La stack précise, c'est M8-B2.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.

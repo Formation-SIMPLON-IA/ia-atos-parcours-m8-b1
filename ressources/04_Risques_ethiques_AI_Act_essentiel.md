@@ -71,3 +71,13 @@ Pour ton cas :
 - [ ] Chaque risque a une obligation rattachée (article).
 - [ ] Les risques spécifiques au secteur sont identifiés.
 - [ ] Les 🔴 sont traités dans l'architecture cible.
+
+> 💡 **Récap — Risques + AI Act** : classer le système (haut risque / limité / minimal) **et** justifier ; 5-7 risques 🔴/🟠/🟡 chacun rattaché à une obligation (article) ; traiter les 🔴 **dans l'architecture**, pas après. Les risques diffèrent selon le secteur tiré.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.
