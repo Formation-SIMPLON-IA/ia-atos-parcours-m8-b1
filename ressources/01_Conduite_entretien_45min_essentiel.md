@@ -24,6 +24,10 @@ du consultant IA.
   séparément. Relancer quand le client reste vague.
 - **Le « pourquoi pas déjà fait ? »** : révèle les vrais obstacles (budget, données
   manquantes, échecs passés).
+- **Question imposée — volumétrie labellisée** : « combien d'exemples, labellisés
+  comment, et est-ce suffisant pour la famille de modèle envisagée ? ». Peu de
+  données + modèle complexe = surapprentissage garanti ; c'est une question de
+  certif (C4) et elle conditionne l'arbitrage ML/DL de M8-B2.
 - **Gérer le temps** : 45 min = ~5 min/catégorie + marge. Ne pas s'enliser sur un
   point.
 - **Posture** : consultant qui cadre, pas développeur qui propose une techno tout
@@ -37,6 +41,8 @@ Catégorie « Données » :
 - Sont-elles annotées / catégorisées ?
 - Contiennent-elles des données personnelles ?
 - Qui y a accès, où sont-elles stockées ?
+- (imposée) Combien d'exemples, labellisés comment — et est-ce suffisant
+  pour la famille de modèle envisagée ?
 ```
 
 ## Exercice guidé
@@ -75,6 +81,7 @@ Pour ton cas tiré, avant l'entretien :
 - [ ] J'ai distingué *dit* / *interprété* dans mes notes.
 - [ ] J'ai reformulé le besoin (pas recopié la demande).
 - [ ] J'ai couvert données + contraintes + indicateurs.
+- [ ] J'ai posé la question imposée sur la volumétrie labellisée.
 - [ ] J'ai tenu les 45 min (gestion du temps).
 
 > 💡 **Récap — Conduite d'entretien** : demande ≠ besoin ; questions par catégorie (besoin/données/contraintes/KPI/volumétrie/succès) ; noter dit vs interprété ; relancer quand c'est vague. En 45 min, la préparation fait tout — c'est le geste CT3 le plus exigeant du parcours.

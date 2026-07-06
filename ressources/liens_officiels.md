@@ -11,3 +11,14 @@ Dernière vérification : 2026-06-10
   - État : ✅ vérifié le 2026-06-10
 ## Références
 - **Just Enough Research (Erika Hall)** : https://www.mulebooks.com/just-enough-research
+
+## Sécurité du modèle (mini-cours 07)
+
+- **MITRE ATLAS — cartographie des attaques sur les systèmes IA** : https://atlas.mitre.org/
+  - État : ✅ vérifié le 2026-07-05
+- **OWASP Top 10 for LLM Applications** : https://owasp.org/www-project-top-10-for-large-language-model-applications/
+  - État : ✅ vérifié le 2026-07-05
+- **ANSSI — Recommandations de sécurité pour un système d'IA générative** : https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative
+  - État : ✅ vérifié le 2026-07-05
+- **NIST AI 100-2 — taxonomie adversarial ML** : https://csrc.nist.gov/pubs/ai/100/2/e2023/final
+  - État : ✅ vérifié le 2026-07-05
