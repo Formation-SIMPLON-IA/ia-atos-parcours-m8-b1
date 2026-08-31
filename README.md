@@ -24,4 +24,4 @@
 - Cadrage lisible **par le client**. **Journal de bord** tenu.
 
 ## 📚 Ressources
-Voir [`./ressources/`](./ressources/) — 6 mini-cours + `liens_officiels.md`.
+Voir [`./ressources/`](./ressources/) — 7 mini-cours (dont sécurité modèle) + `liens_officiels.md`.
