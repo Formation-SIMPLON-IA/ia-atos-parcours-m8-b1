@@ -57,6 +57,7 @@ _Relance non prévue ? Note-la aussi, avec la raison (« réponse surprenante su
 | Données personnelles / confidentialité | | |
 | Critère de succès chiffré | | |
 | Coût d'une erreur | | |
+| Erreurs tolérées (chiffre : fausses alertes, mauvais routage…) | | |
 | Utilisateurs | | |
 | Validation humaine / qui décide | | |
 | SI / hébergement | | |
