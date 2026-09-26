@@ -37,6 +37,33 @@
 
 _Relance non prévue ? Note-la aussi, avec la raison (« réponse surprenante sur… »)._
 
+### Boussole — ce que j'ai déjà obtenu
+
+> Mets-la à jour **après chaque réponse**. Elle suit des **informations**, pas
+> tes questions : une réponse peut en remplir plusieurs, une autre aucune.
+> Quand il te reste 3-4 questions, regarde les 🔴 : lequel manquera le plus à
+> ton cadrage ? C'est à toi de formuler la question.
+>
+> 🟢 obtenu · 🟠 partiel / à vérifier · 🔴 à obtenir · ⬜ pas demandé (→ §3)
+
+| Information | Statut | Réponse n° |
+|---|---|---|
+| Besoin réel (≠ demande exprimée) | | |
+| Processus actuel | | |
+| Données : existence | | |
+| Données : volume | | |
+| Données : qualité | | |
+| Données : extrait obtenu | | |
+| Données personnelles / confidentialité | | |
+| Critère de succès chiffré | | |
+| Coût d'une erreur | | |
+| Utilisateurs | | |
+| Validation humaine / qui décide | | |
+| SI / hébergement | | |
+| Budget | | |
+| Délai | | |
+| Ce qui a déjà été essayé | | |
+
 ## 3. Après — ce que je n'ai pas pu demander → questions ouvertes
 
 | Je n'ai pas pu demander / pas eu de réponse claire | Pourquoi c'est important | → §6 du cadrage |
